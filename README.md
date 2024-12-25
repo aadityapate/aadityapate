@@ -5,5 +5,5 @@
 - I’m looking to collaborate on open-source projects, tech startups, and innovative applications of AI and Cybersecurity.<br>
 - 📫 Connect with me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Email: aadityaspate@gmail.com<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - LinkedIn: www.linkedin.com/in/adityapate<br>
-![Profile Views](https://komarev.com/ghpvc/?username=aadityapate&color=blue)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - LinkedIn: www.linkedin.com/in/adityapate<br><br>
+- ![Profile Views](https://komarev.com/ghpvc/?username=aadityapate&color=blue)
