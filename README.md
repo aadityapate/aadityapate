@@ -1,4 +1,4 @@
-- Hi 👋, I’m Aditya Pate (@aadityapate)<br>
+- Hi👋, I’m Aditya Pate (@aadityapate)<br>
 - Pronouns: He/His<br>
 - I’m interested in C++, Python, DSA, Cybersecurity, and innovative Web Development projects.<br>
 - I’m currently learning advanced coding techniques and enhancing my cybersecurity skills through hands-on projects and certifications.<br>
