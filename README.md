@@ -6,4 +6,3 @@
 - 📫 Connect with me:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Email: aadityaspate@gmail.com<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - LinkedIn: www.linkedin.com/in/adityapate<br>
-<br>
